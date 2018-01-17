@@ -1,4 +1,6 @@
 # noUiSlider
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2FnoUiSlider.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2FnoUiSlider?ref=badge_shield)
+
 
 noUiSlider is lightweight JavaScript range slider.
 
@@ -159,3 +161,7 @@ is enough:
 ```
 import 'nouislider';
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2FnoUiSlider.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2FnoUiSlider?ref=badge_large)
